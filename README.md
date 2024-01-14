@@ -12,6 +12,7 @@
 
 - Attackers capture the PMKID by sniffing the 4-way handshake during the connection process between a client and an access point.
 - The handshake process occurs when a device attempts to connect to a Wi-Fi network, and it involves the exchange of messages to establish a secure connection.
+- To capture this PMKID, use hcxdumptool and to strip the data, use hcxpcapngtool
 
 ### 3. Cracking with Hashcat:
 
